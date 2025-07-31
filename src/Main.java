@@ -29,14 +29,14 @@ public class Main{
         System.out.println("Course: " + course);
         System.out.println("Section: " + section);
 
-
-        System.out.println("Midterm Exam Score: ");
+        System.out.println(" ");
+        System.out.println("Enter midterm Exam Score: ");
         int midtermExamScore = scanner.nextInt();
-        System.out.println("Final Exam Score : ");
+        System.out.println("Enter Final Exam Score : ");
         int finalExamScore = scanner.nextInt();
-        System.out.println("Project Score: ");
+        System.out.println("Enter Project Score: ");
         int projectScore = scanner.nextInt();
-        System.out.println("Attendance Percentage: ");
+        System.out.println("Enter Attendance Percentage: ");
         int attendancePercentage = scanner.nextInt();
 
         int allOverScore = midtermExamScore + finalExamScore + projectScore + attendancePercentage;
