@@ -14,8 +14,8 @@ class Book {
         if(title == "The Great Gatsby") {
             System.out.println("The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald.");
         }
-        if(title == "Harry Potter and the Order of the Phoenix") {
-            System.out.println("Harry Potter and the Order of the Phoenix is a fantasy novel written by British author J. K. Rowling. ");
+        if(title == "To Kill a Mockingbird") {
+            System.out.println("To Kill a Mockingbird is a 1960 Southern Gothic novel by American author Harper Lee.");
         }
         if(title == "Pride and Prejudice"){
             System.out.println("Pride and Prejudice is the second published novel by English author Jane Austen");
