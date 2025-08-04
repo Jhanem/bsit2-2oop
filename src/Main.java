@@ -40,7 +40,7 @@ class Book {
 
 
         System.out.println();
-        Book book2 = new Book("Harry Potter and the Order of the Phoenix", "J. K. Rowling",766 );
+        Book book2 = new Book("Harry Potter and the Order of the Phoenix", "J. K. Rowling", 766 );
         book2.displayInfo();
         book2.borrowBook();
 
