@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 public class Main {
     public static void main(String[] args) {
         LibraryManager manager = new LibraryManager();
@@ -49,5 +50,10 @@ public class Main {
         System.out.println("\n== Testing User Information ==");
         System.out.println("Student:" + " " + studentJohn.getName() + " " + "(" + studentJohn.getMajor() + ")" + " - " +  studentJohn.getBorrowedItemsCount() + " " + "items borrowed" );
         System.out.println("Faculty:" + " " + facultySmith.getName() + " " + "(" + facultySmith.getDepartment() + ")" + " - " +  facultySmith.getBorrowedItemsCount() + " " + "items borrowed" );
+=======
+public class Main{
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+>>>>>>> 7af75dd05d0d54527e51fd013910a884811482e9
     }
 }
